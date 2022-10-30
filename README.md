@@ -214,7 +214,7 @@ Protected branches ensure that collaborators on your repository cannot make irre
 <details id=5>
 <summary><h2>Step 5: Merge your pull request</h2></summary>
 
-_Almost there! :heart:_
+_Almost there! :heart:_ (I am done) 
 
 You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your pull request!
 
